@@ -32,7 +32,6 @@
     align-items: center;
     gap: 33px;
     text-decoration-skip-ink: none;
-
 }
 
 .menu_item {
@@ -63,8 +62,6 @@
     line-height: 24.3px; 
     text-decoration-skip-ink: none;
     text-underline-offset: 2px;
-   
-
 }
 
 .header_contact {
@@ -72,7 +69,6 @@
     max-width: 240px;
     text-underline-position: from-font;
 }
-
 
 .address_list {
     margin: auto;
@@ -98,8 +94,6 @@
     height: 757px;
     width: 1100px;
     margin: 0;
-    
-
 }
 
 .overlay {
@@ -138,8 +132,7 @@
     height: 385px;
     width: 1000px;
     top: 165px;
-    left: 50px;
-    
+    left: 50px;  
 }
 
 .accent-span {
@@ -152,7 +145,6 @@
     left: 380.5px;
     padding-left: 128px;
     padding-top: 20px;
-
 }
 
 .text-right {
@@ -168,7 +160,6 @@
     font-size: 22px;
     font-weight: 400;
     height: 51px;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -178,12 +169,10 @@
     right: 50px;
     padding:0;
     gap: 20px;
-
 }
 
 .tagline {
     color:white;
-    align-self: end;
     justify-self: start;
     align-self: center;
     word-spacing: 19px;
@@ -198,7 +187,6 @@
     justify-self: end;
     bottom:0;
     height: 51px;
-  
 }
 
 
@@ -291,7 +279,6 @@
 }
 
 
-
 .lots__look-more-link {
     height: 100%;
     padding-left: 40px;
@@ -303,13 +290,11 @@
     text-underline-offset: 4px;
 }
 
-
 .card_type_film {
     background-image: url(../images/card-lot-01.jpg);
     background-size: cover;
     background-position: bottom;
 }
-
 
 
 .card_type_book {
@@ -323,7 +308,6 @@
     background-size: cover;
     background-position: bottom;
 }
-
 
 .about {
     background-color: white;
@@ -347,7 +331,7 @@
     height: 240px;
     border-radius: 50%;
     background-color: #000000;
-    }
+}
 
 .about__logo-image {
     padding: 50px 50px;
@@ -391,8 +375,6 @@
     width: 693;
     height: 168;
     padding-right: 5px;
-
-
 }
 
 
@@ -414,9 +396,7 @@
 
 .footer_contact {
     justify-self: start;
-     max-width: 264.573486328125px;
-
-     
+     max-width: 264.573486328125px;  
 }
 
 .footer-menu {
@@ -428,7 +408,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-
 }
 
 .footer_socials {
@@ -438,7 +417,5 @@
     align-self: start;
     gap: 48px;
     margin-left:-7px;
-
-
 }
 
